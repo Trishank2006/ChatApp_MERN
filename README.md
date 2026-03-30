@@ -58,11 +58,7 @@ yarn.lock / package-lock.json<br>
 
 <h2 style="font-family:Arial, sans-serif; color:#e67e22;">⚡ Getting Started</h2>
 
-<h3 style="font-family:Arial, sans-serif; color:#34495e;">1. 🔽 Clone the Repository</h3>
-<div style="background-color:#f4f4f4; padding:12px; border-radius:8px; border:1px solid #ddd; font-family:Courier New, monospace; white-space:pre-line;">
-git clone https://github.com/shankar-mallidi/MERN_ChatApp.git
-cd MERN_ChatApp
-</div>
+
 
 <br/>
 
