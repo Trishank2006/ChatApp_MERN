@@ -62,7 +62,7 @@ yarn.lock / package-lock.json<br>
 
 <br/>
 
-<h3 style="font-family:Arial, sans-serif; color:#34495e;">2. ⚙️ Setup Environment Variables</h3>
+<h3 style="font-family:Arial, sans-serif; color:#34495e;">1. ⚙️ Setup Environment Variables</h3>
 <p style="font-family:Arial, sans-serif;">Create a <code>.env</code> file in the <strong>backend</strong> directory with the following values (example):</p>
 <div style="background-color:#fdf6e3; padding:12px; border-radius:8px; border:1px solid #eee; font-family:Courier New, monospace; white-space:pre-line;">
 MONGO_URI=your_mongodb_connection_string
@@ -72,7 +72,7 @@ PORT=5000
 
 <br/>
 
-<h3 style="font-family:Arial, sans-serif; color:#34495e;">3. 📦 Install Dependencies</h3>
+<h3 style="font-family:Arial, sans-serif; color:#34495e;">2. 📦 Install Dependencies</h3>
 
 <p style="font-family:Arial, sans-serif;"><strong>Backend:</strong></p>
 <div style="background-color:#f4f4f4; padding:12px; border-radius:8px; border:1px solid #ddd; font-family:Courier New, monospace; white-space:pre-line;">
@@ -88,7 +88,7 @@ npm install
 
 <br/>
 
-<h3 style="font-family:Arial, sans-serif; color:#34495e;">4. 🚀 Run the Application</h3>
+<h3 style="font-family:Arial, sans-serif; color:#34495e;">3. 🚀 Run the Application</h3>
 
 <p style="font-family:Arial, sans-serif;"><strong>Start Backend Server:</strong></p>
 <div style="background-color:#f4f4f4; padding:12px; border-radius:8px; border:1px solid #ddd; font-family:Courier New, monospace; white-space:pre-line;">
